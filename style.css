@@ -1,0 +1,26 @@
+header {
+    width: 697px;
+    height: 49px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.25);
+
+}
+
+.menu { 
+    float: right;
+    text-align: center;
+
+    
+}
+
+
+
+footer {
+    display: inline-flex;
+    margin-top: 57px;
+    height: 243px;
+    width: 697px;
+    background-color: #333333;
+}
+
+ 
